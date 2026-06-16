@@ -4,6 +4,10 @@ Assign a Linear issue to this agent and it spins up an isolated [Sprite](https:/
 
 It's a small, readable example you can fork and shape into your own [Linear agent](https://linear.app/docs/agent-sdk). There's a full walkthrough in the article: [Building a Sandboxed Linear Agent Powered by Claude Code and Sprite](https://dev.to/marvinjude/building-a-sandboxed-linear-agent-powered-by-claude-code-and-sprite-24db).
 
+## Demo
+
+<video src="https://github.com/marvinjude/linear-agent-example-with-sprite/raw/main/Linear%20Agent%20Demo%202.mp4" controls width="100%"></video>
+
 ## How it works
 
 1. A Linear agent session is created (e.g. someone assigns or @-mentions the agent on an issue).
