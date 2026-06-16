@@ -1,12 +1,15 @@
 # Linear Agent Example with Claude Code + Sprite.dev
 
+
+
+https://github.com/user-attachments/assets/b53c2748-2341-439d-91dd-a488331bfd7a
+
+
+
 Assign a Linear issue to this agent and it spins up an isolated [Sprite](https://sprites.dev) sandbox, runs [Claude Code](https://claude.ai/code) inside it to do the work, and streams the agent's thoughts, tool calls, and results back into the issue in real time.
 
 It's a small, readable example you can fork and shape into your own [Linear agent](https://linear.app/docs/agent-sdk). There's a full walkthrough in the article: [Building a Sandboxed Linear Agent Powered by Claude Code and Sprite](https://dev.to/marvinjude/building-a-sandboxed-linear-agent-powered-by-claude-code-and-sprite-24db).
 
-## Demo
-
-<video src="https://github.com/marvinjude/linear-agent-example-with-sprite/raw/main/Linear%20Agent%20Demo%202.mp4" controls width="100%"></video>
 
 ## How it works
 
