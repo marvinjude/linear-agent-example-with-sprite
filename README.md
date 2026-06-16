@@ -2,7 +2,7 @@
 
 Assign a Linear issue to this agent and it spins up an isolated [Sprite](https://sprites.dev) sandbox, runs [Claude Code](https://claude.ai/code) inside it to do the work, and streams the agent's thoughts, tool calls, and results back into the issue in real time.
 
-It's a small, readable example you can fork and shape into your own [Linear agent](https://linear.app/docs/agent-sdk). There's a full walkthrough in [ARTICLE.md](./ARTICLE.md).
+It's a small, readable example you can fork and shape into your own [Linear agent](https://linear.app/docs/agent-sdk). There's a full walkthrough in the article: [Building a Sandboxed Linear Agent Powered by Claude Code and Sprite](https://dev.to/marvinjude/building-a-sandboxed-linear-agent-powered-by-claude-code-and-sprite-24db).
 
 ## How it works
 
@@ -23,7 +23,7 @@ It's a small, readable example you can fork and shape into your own [Linear agen
 
 ### 1. Create a Linear OAuth app
 
-In your Linear workspace, go to **Settings → API → OAuth applications** and create an app. Copy the **Client ID** and **Client Secret**. (See [ARTICLE.md](./ARTICLE.md) for scopes and the client-credentials flow.)
+In your Linear workspace, go to **Settings → API → OAuth applications** and create an app. Copy the **Client ID** and **Client Secret**. (See the [article](https://dev.to/marvinjude/building-a-sandboxed-linear-agent-powered-by-claude-code-and-sprite-24db) for scopes and the client-credentials flow.)
 
 ### 2. Configure the webhook
 
